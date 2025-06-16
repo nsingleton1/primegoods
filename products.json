@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Method Simply Nourish Body Wash",
+    "url": "https://www.target.com/p/method-simply-nourish-body-wash/-/A-88246955",
+    "selector": "button[data-test][aria-label^='Add to cart']"
+  }
+]
